@@ -2312,7 +2312,7 @@
     (property "Value" "10uf" (id 1) (at 257.81 94.3609 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 254.9652 97.79 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" (id 2) (at 254.9652 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 254 93.98 0)
@@ -2781,7 +2781,7 @@
     (property "Value" ".01/400v" (id 1) (at 78.74 96.52 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 77.47 95.25 0)
+    (property "Footprint" "Capacitor_THT:C_Rect_L10.0mm_W4.0mm_P7.50mm_MKS4" (id 2) (at 77.47 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 77.47 95.25 0)
@@ -2969,7 +2969,7 @@
     (property "Value" "1000uf" (id 1) (at 218.44 93.0909 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 215.5952 96.52 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm" (id 2) (at 215.5952 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 214.63 92.71 0)
@@ -3138,19 +3138,19 @@
       (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
     )
     (path "/af6d24d3-2ebe-4f80-9d0c-f289817d2611"
-      (reference "C1") (unit 1) (value ".01/400v") (footprint "")
+      (reference "C1") (unit 1) (value ".01/400v") (footprint "Capacitor_THT:C_Rect_L10.0mm_W4.0mm_P7.50mm_MKS4")
     )
     (path "/f943cf73-6023-4201-8914-d783c8da9ec4"
-      (reference "C2") (unit 1) (value "1000uf") (footprint "")
+      (reference "C2") (unit 1) (value "1000uf") (footprint "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm")
     )
     (path "/281740b4-9504-4250-8402-6cda37c9fff4"
-      (reference "C3") (unit 1) (value "10uf") (footprint "")
+      (reference "C3") (unit 1) (value "10uf") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm")
     )
     (path "/9ee275cc-47c1-4b8b-980c-7d7214ee4bde/5b26e194-09b4-48bf-9fc7-24c57264e72b"
       (reference "C200") (unit 1) (value ".1uf") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/9ee275cc-47c1-4b8b-980c-7d7214ee4bde/b240069a-d2aa-48dc-9bba-60a372f4e603"
-      (reference "C201") (unit 1) (value "4700uf") (footprint "")
+      (reference "C201") (unit 1) (value "4700uf") (footprint "Capacitor_THT:CP_Radial_D25.0mm_P10.00mm_SnapIn")
     )
     (path "/1c064150-4a5c-4345-8f52-f032fa5cdc84"
       (reference "D1") (unit 1) (value "MRA4007T3G") (footprint "Diode_SMD:D_SMA")
@@ -3237,7 +3237,7 @@
       (reference "R204") (unit 1) (value "470") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/9ee275cc-47c1-4b8b-980c-7d7214ee4bde/4f791885-332d-4c42-9ab4-d18f400bce56"
-      (reference "R205") (unit 1) (value "220") (footprint "")
+      (reference "R205") (unit 1) (value "220") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/44cf2d32-8e8c-4f2d-a00f-594cc953fa48"
       (reference "U1") (unit 1) (value "LM340LAZ-5.0") (footprint "AAA_JH:TO92127P478H483-3")
