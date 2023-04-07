@@ -866,6 +866,7 @@
     )
   )
 
+
   (junction (at 254 129.54) (diameter 0) (color 0 0 0 0)
     (uuid d920ff48-200e-4ddd-8dc6-b5da63319f17)
   )
@@ -1537,7 +1538,7 @@
     (property "Value" "Q_NPN_Darlington_CBE" (at 231.14 116.8399 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "AAA_JH:TRANS_2SD1918_ROM-M" (at 231.14 113.03 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2" (at 231.14 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.diodes.com/assets/Datasheets/FZT600A.pdf" (at 226.06 115.57 0)
@@ -1592,7 +1593,7 @@
     (property "Value" "Q_NPN_Darlington_CBE" (at 218.44 102.8699 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "AAA_JH:TRANS_2SD1918_ROM-M" (at 218.44 99.06 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2" (at 218.44 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.diodes.com/assets/Datasheets/FZT600A.pdf" (at 213.36 101.6 0)
